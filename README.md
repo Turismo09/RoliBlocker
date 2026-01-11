@@ -23,6 +23,7 @@ Once installed, you'll see a blue button in the bottom-right corner on rolimons.
 - Toggle duplicate filtering on/off
 - Toggle player blocking on/off  
 - Add user IDs to block (one per line)
+(You need developer mode and userinject scripts on for it, you need to relaunch browser after turning it on)
 
 You can add comments to your block list:
 ```

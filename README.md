@@ -38,3 +38,10 @@ Open dev console (`F12`) to see what got filtered:
 ```
 [RF] - 5 dupes, - 2 blocked
 ```
+
+## Disclaimer
+
+This script will always be free. Do not trust anyone who attempts to sell you a version of this.
+
+Be wary that this is the only official version of RoliBlocker.
+Malicious people may make Github Repos with similar usernames or give you malicious edited code from this official open-source.
